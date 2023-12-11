@@ -1,0 +1,168 @@
+.Card {
+    backdrop-filter: blur(2px);
+    border: 1px solid rgba(153, 153, 153, 0.497);
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    display: flex;
+    width: 1000px;
+    text-align: center;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    position: relative;
+    margin-bottom: 10px;
+    padding: 25px;
+}
+
+
+.editIdea {
+    backdrop-filter: blur(2px);
+    border: 1px solid rgba(153, 153, 153, 0.497);
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    display: flex;
+    width: 1000px;
+    text-align: center;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-bottom: 10px;
+    padding: 25px;
+}
+
+.button-container button {
+    display: inline-block;
+    margin-right: 10px; /* Add some space between the buttons */
+}
+
+h3 {
+    color: black;
+}
+.like-count {
+    display: inline-block;
+    margin-right: 10px; /* Add some space between the buttons */
+}
+
+button.like-button {
+    background-color: transparent;
+    color: #528ea2;
+    border: none;
+    cursor: pointer;
+}
+
+button.dislike-button {
+    background-color: transparent;
+    color: #FF3333;
+    border: none;
+    cursor: pointer;
+}
+
+.comments-container {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: calc(100% - 16px); 
+    max-width: 600px;
+}
+
+.comment-section textarea {
+    width: calc(100% - 16px); /* Adjust the width as needed */
+    padding: 8px;
+    margin-bottom: 8px;
+    resize: vertical; 
+    max-width:600px;
+}
+
+.comment {
+    margin: 5px 0;
+    padding: 8px; /* Increase padding for better spacing */
+    background-color: #e0e0e0;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    font-size: 14px; /* Adjust the font size for smaller text */
+}
+
+.comment-section {
+    margin-top: 10px;
+    max-width: 600px;
+}
+
+
+.comment-section button {
+    background-color: #528ea2;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.comment-section button:hover {
+    background-color: #4c45a0;
+}
+
+.comment-image {
+  width: auto;
+  height: auto;
+  margin-right: 10px;
+  max-width: 200px;
+}
+
+.image-container {
+    position: absolute;
+    top: 30px;
+    right: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    width: 350px; /* Set a fixed width */
+    height: 350px; /* Set a fixed height */
+}
+
+.image-container img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+}
+
+.no-comments-text {
+    background-color: f0f0f0;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    display: inline-block;
+    animation: fadeOut 3s ease-in-out;
+    position: absolute;
+    top: 235px; 
+    right: 480px;
+  }
+  
+  @keyframes fadeOut {
+    0% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+  
+  .styled-link {
+    font-size: 16px;
+    max-width: 400px; 
+    display: inline-block; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    white-space: nowrap; 
+  }
+
+  .download-button {
+    position: absolute;
+    top: 180px;
+    right: 87px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}

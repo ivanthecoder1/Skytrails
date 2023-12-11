@@ -1,0 +1,24 @@
+-classpath
+'/Users/aaronchucarroll/.m2/repository/com/sparkjava/spark-core/2.9.4/spark-core-2.9.4.jar:/Users/aaronchucarroll/.m2/repository/org/eclipse/jetty/jetty-server/9.4.48.v20220622/jetty-server-9.4.48.v20220622.jar:/Users/aaronchucarroll/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:/Users/aaronchucarroll/.m2/repository/org/eclipse/jetty/jetty-http/9.4.48.v20220622/jetty-http-9.4.48.v20220622.jar:/Users/aaronchucarroll/.m2/repository/org/eclipse/jetty/jetty-util/9.4.48.v20220622/jetty-util-9.4.48.v20220622.jar:/Users/aaronchucarroll/.m2/repository/org/eclipse/jetty/jetty-io/9.4.48.v20220622/jetty-io-9.4.48.v20220622.jar:/Users/aaronchucarroll/.m2/repository/org/eclipse/jetty/jetty-webapp/9.4.48.v20220622/jetty-webapp-9.4.48.v20220622.jar:/Users/aaronchucarroll/.m2/repository/org/eclipse/jetty/jetty-xml/9.4.48.v20220622/jetty-xml-9.4.48.v20220622.jar:/Users/aaronchucarroll/.m2/repository/org/eclipse/jetty/jetty-servlet/9.4.48.v20220622/jetty-servlet-9.4.48.v20220622.jar:/Users/aaronchucarroll/.m2/repository/org/eclipse/jetty/jetty-security/9.4.48.v20220622/jetty-security-9.4.48.v20220622.jar:/Users/aaronchucarroll/.m2/repository/org/eclipse/jetty/jetty-util-ajax/9.4.48.v20220622/jetty-util-ajax-9.4.48.v20220622.jar:/Users/aaronchucarroll/.m2/repository/org/eclipse/jetty/websocket/websocket-server/9.4.48.v20220622/websocket-server-9.4.48.v20220622.jar:/Users/aaronchucarroll/.m2/repository/org/eclipse/jetty/websocket/websocket-common/9.4.48.v20220622/websocket-common-9.4.48.v20220622.jar:/Users/aaronchucarroll/.m2/repository/org/eclipse/jetty/websocket/websocket-client/9.4.48.v20220622/websocket-client-9.4.48.v20220622.jar:/Users/aaronchucarroll/.m2/repository/org/eclipse/jetty/jetty-client/9.4.48.v20220622/jetty-client-9.4.48.v20220622.jar:/Users/aaronchucarroll/.m2/repository/org/eclipse/jetty/websocket/websocket-servlet/9.4.48.v20220622/websocket-servlet-9.4.48.v20220622.jar:/Users/aaronchucarroll/.m2/repository/org/eclipse/jetty/websocket/websocket-api/9.4.48.v20220622/websocket-api-9.4.48.v20220622.jar:/Users/aaronchucarroll/.m2/repository/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar:/Users/aaronchucarroll/.m2/repository/org/slf4j/slf4j-simple/2.0.7/slf4j-simple-2.0.7.jar:/Users/aaronchucarroll/.m2/repository/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar:/Users/aaronchucarroll/.m2/repository/org/postgresql/postgresql/42.2.25/postgresql-42.2.25.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/aaronchucarroll/Dropbox/Lehigh/Semester1/cse216/cse216-2023fa-team-7/backend/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/aaronchucarroll/Dropbox/Lehigh/Semester1/cse216/cse216-2023fa-team-7/backend/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'backend 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/aaronchucarroll/Dropbox/Lehigh/Semester1/cse216/cse216-2023fa-team-7/backend/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'backend 1.0-SNAPSHOT API'

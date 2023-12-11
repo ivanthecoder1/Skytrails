@@ -1,0 +1,528 @@
+commit 0713f29f4fac6478582230a3a070dd71a95acba1
+Merge: d565fd3 389237a
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Sun Nov 19 15:44:54 2023 -0500
+
+    Merge branch 'web' of bitbucket.org:thd226/cse216-2023fa-team-7 into web
+
+commit d565fd3271dd839c84017d3d4c70a4e9f5ce8f57
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Sun Nov 19 15:44:17 2023 -0500
+
+    app testing
+
+commit 389237a1728733a7edfd32f75e3577200327d5ec
+Author: Tolga Daim <tolgadaim@dyn205141.cc.lehigh.edu>
+Date:   Fri Nov 17 10:26:24 2023 -0500
+
+    fixed some backlog
+
+commit a6a061d9082f44999f92906e0ef3adfa4e4d3ecd
+Author: Tolga Daim <tolgadaim@dyn205141.cc.lehigh.edu>
+Date:   Thu Nov 16 21:07:50 2023 -0500
+
+    removed unneeded code
+
+commit 33cd352981bcfa8c3725c839fdf290503103c361
+Author: Tolga Daim <tolgadaim@dyn205141.cc.lehigh.edu>
+Date:   Thu Nov 16 20:32:12 2023 -0500
+
+    cleaned up comments
+
+commit 56383ee60b173efe1754cf5dc35a7e59f20d16bc
+Author: Tolga Daim <tolgadaim@dyn205141.cc.lehigh.edu>
+Date:   Thu Nov 16 20:17:14 2023 -0500
+
+    fixed up some tech debt
+
+commit 97eb7ba734ec989d773859041694a4fc13c637a1
+Author: Tolga Daim <tolgadaim@dyn202183.cc.lehigh.edu>
+Date:   Thu Nov 16 17:22:27 2023 -0500
+
+    updated tech debt
+
+commit b612f8da3a12990194bce8856a6151ecd249c434
+Author: Tolga Daim <tolgadaim@dyn213195.cc.lehigh.edu>
+Date:   Wed Nov 15 17:54:46 2023 -0500
+
+    Added some comments for jsdoc
+
+commit 7995b99260dade0f6350fd1ec326d31fe25f0612
+Author: Tolga Daim <tolgadaim@dyn213195.cc.lehigh.edu>
+Date:   Wed Nov 15 17:43:28 2023 -0500
+
+    Added a skeleton of jsdoc
+
+commit 770f7c3d2d4935901393a8d48c1e378d1effc1b3
+Author: Tolga Daim <tolgadaim@dyn213195.cc.lehigh.edu>
+Date:   Wed Nov 15 17:07:27 2023 -0500
+
+    Newest web:
+
+commit 57b73fae518653f9e82dcc3a9ce6d1193e493a10
+Author: Tolga Daim <tolgadaim@dyn239096.cc.lehigh.edu>
+Date:   Tue Nov 14 19:12:21 2023 -0500
+
+    Added session key
+
+commit db65900e64804452080ec50de6d24a61921aa749
+Author: Tolga Daim <tolgadaim@dyn239096.cc.lehigh.edu>
+Date:   Tue Nov 14 19:11:51 2023 -0500
+
+    Pushed newest changes
+
+commit ff5b60be35a54e128e33c75a9eb232c9ff4bffd9
+Author: Tolga Daim <tolgadaim@dyn239096.cc.lehigh.edu>
+Date:   Mon Nov 13 23:37:26 2023 -0500
+
+    Implemented session key
+
+commit 787dc19d7644d0b50890926a262f85a0fd7f4a2f
+Author: Tolga Daim <tolgadaim@dyn193065.cc.lehigh.edu>
+Date:   Thu Nov 9 19:02:14 2023 -0500
+
+    Addeing changes
+
+commit 969acd08110b6d22ba43e17f724aa0d0ae7ed897
+Author: Tolga Daim <tolgadaim@dyn193065.cc.lehigh.edu>
+Date:   Thu Nov 9 16:32:45 2023 -0500
+
+    Fixed merge again
+
+commit 9de0a5239630834f54b446d8e243f5a0f67ea903
+Merge: ebfb462 ff4acae
+Author: Tolga Daim <tolgadaim@dyn193065.cc.lehigh.edu>
+Date:   Thu Nov 9 16:23:01 2023 -0500
+
+    Trying to fix merge
+
+commit ebfb462a56ee9340a06145eb8eec3eb3e092cd08
+Author: Tolga Daim <tolgadaim@dyn193065.cc.lehigh.edu>
+Date:   Thu Nov 9 16:07:25 2023 -0500
+
+    Added skeleton of unit test
+
+commit d43e103fd7eca69d9a6c6a35e2b58b14fb3a4b26
+Merge: ba08341 5e6f345
+Author: Tolga Daim <thd226@lehigh.edu>
+Date:   Tue Nov 7 21:30:51 2023 +0000
+
+    Merged backend into web
+
+commit ba083417050734cddb25572def5e92f2d2965e98
+Author: Tolga Daim <tolgadaim@dyn200212.cc.lehigh.edu>
+Date:   Tue Nov 7 16:26:13 2023 -0500
+
+    pushing to web branch
+
+commit ff4acae82966029b18377eb62852c7fbcc46bd49
+Author: Tolga Daim <tolgadaim@dyn200212.cc.lehigh.edu>
+Date:   Mon Nov 6 21:31:57 2023 -0500
+
+    please work
+
+commit 40ebd3c0ca82c0c6501366e44d788fcea5738660
+Merge: 5c42d49 5e6f345
+Author: Layla Izquierdo <lji225@lehigh.edu>
+Date:   Mon Nov 6 23:39:02 2023 +0000
+
+    Merged in backend (pull request #20)
+    
+    Backend
+    
+    Approved-by: Aaron Chu-Carroll
+
+commit 5c42d495fd998c7fbace659b3baf2b7c5f70bc66
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Mon Nov 6 18:34:36 2023 -0500
+
+    for branch switch
+
+commit 5e6f3454c2d9f3e35f48ba37dce15788914bd1b3
+Author: Layla Izquierdo <lji225@lehigh.edu>
+Date:   Mon Nov 6 17:30:26 2023 -0500
+
+    Removed redundancy
+
+commit 52452c398d62fe6a7adb6f035361075fcc5ec4b9
+Author: Layla Izquierdo <lji225@lehigh.edu>
+Date:   Mon Nov 6 17:22:52 2023 -0500
+
+    OAuth implemented testing now
+
+commit 5243e3be3168238a0e90ce5ed00e9dc05b1ebd24
+Merge: 527d63f 3d0067f
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Sun Nov 5 15:19:33 2023 -0500
+
+    Merged admin into master
+
+commit 3d0067f3d0728432dd656d929e354fb5c1e6bf59
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Sun Nov 5 15:18:48 2023 -0500
+
+    all changes
+
+commit 231e30a4802b470653ab64a7e7951606a61bc5df
+Author: Layla Izquierdo <lji225@lehigh.edu>
+Date:   Sun Nov 5 15:17:20 2023 -0500
+
+    Started the steps for google OAuth
+
+commit 46d884dcfbcd7c5cd44430b57077decc296a7c81
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Sun Nov 5 15:11:14 2023 -0500
+
+    Added ban list
+
+commit f5a857b15333e99cb70ad9de127fd14f74ab71ed
+Author: Layla Izquierdo <lji225@lehigh.edu>
+Date:   Sun Nov 5 13:47:55 2023 -0500
+
+    Possibly implemented login route but need verification it works
+
+commit 79e2dba8dc090c60e6c5bdee548786e86f4327c0
+Author: Layla Izquierdo <lji225@lehigh.edu>
+Date:   Sun Nov 5 13:39:36 2023 -0500
+
+    Created user routes to update and retrieve users
+
+commit a6b6de7de20223e3d1d06931bc37229aca47f9bc
+Author: Layla Izquierdo <lji225@lehigh.edu>
+Date:   Sun Nov 5 01:19:25 2023 -0500
+
+    Added like funtionality where the user can see their own like history. Possibly added a state machine handling but unsure if it works. Remaining steps for like is to handle user specific like interactions
+
+commit fa2edb3a1d792210e9b616414e66832432f152b1
+Author: Layla Izquierdo <lji225@lehigh.edu>
+Date:   Sun Nov 5 01:16:06 2023 -0400
+
+    Added like functionality for liking and unliking posts with a neutral starting point
+
+commit a3f49e1051b66b7716e5ef284bf8fbc5dfbccc57
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Sat Nov 4 16:26:23 2023 -0400
+
+    Finished admin phase 2
+
+commit ca6ad676a648ccf9445b8feb2928bcfb0add40d2
+Author: Layla Izquierdo <lji225@lehigh.edu>
+Date:   Fri Nov 3 01:14:07 2023 -0400
+
+    Edited SimpleRequest so put route works
+
+commit 10934972c181239ee770741eab131f8ae6eeeea2
+Author: Layla Izquierdo <lji225@lehigh.edu>
+Date:   Fri Nov 3 00:07:55 2023 -0400
+
+    Edited datarowLite to add items necessary for the messageData, edited syntax in messageData, edited Database connection, started fixing spark paths in App
+
+commit 87caccf54aff593b6c6cf91da328b9d93d814175
+Author: Layla Izquierdo <lji225@lehigh.edu>
+Date:   Thu Nov 2 22:26:22 2023 -0400
+
+    Removed redundant file DataStore.java, refactored DataRow into 3 data files for message, comment, and user data
+
+commit 986b70250194bf13532ae7d61c22448866a65a96
+Author: Layla Izquierdo <lji225@lehigh.edu>
+Date:   Thu Nov 2 20:43:59 2023 -0400
+
+    Remade edits that had to be removed to do git pull
+
+commit eddc60a67d4a67f491d99c1cbf61129afcc39556
+Author: Layla Izquierdo <lji225@lehigh.edu>
+Date:   Thu Nov 2 20:42:47 2023 -0400
+
+    Pulled to local system to fix git push error
+
+commit 82569a0433406d2bdabae779ae02bd27f9d22b3e
+Merge: b06d1c2 ce3ca40
+Author: Layla Izquierdo <lji225@lehigh.edu>
+Date:   Thu Nov 2 20:41:54 2023 -0400
+
+    Merge branch 'backend' of bitbucket.org:thd226/cse216-2023fa-team-7 into backend
+
+commit b06d1c2dc4e9029dea299b57341c0a2ae8e02f0b
+Author: Layla Izquierdo <lji225@lehigh.edu>
+Date:   Thu Nov 2 20:40:22 2023 -0400
+
+    Updated database to use 3 tables, removed datarow to be refactored later
+
+commit 0ce65f1991a282ea64d0036e3cf29d87cb8dc00d
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Wed Nov 1 15:27:24 2023 -0400
+
+    Admin changes to database structure
+
+commit 527d63f57f4ab284583418dfdd25e7fd7037d1a9
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Tue Oct 31 17:02:06 2023 -0400
+
+    README update
+
+commit 3b0ae6521d947c46311b8ea4e0b585c33558a0e8
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Tue Oct 31 16:59:18 2023 -0400
+
+    for branch switch
+
+commit 9765d09d85dd193f0bae496c5bd676862a4f6546
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Mon Oct 30 18:59:25 2023 -0400
+
+    finished PM Report
+
+commit 201d447f9e70b658230705e4a38923dd73025ce5
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Sun Oct 29 22:53:41 2023 -0400
+
+    finished diagrams and plans
+
+commit e04106c0955f0797ce4c80320d2552a29463e4f7
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Sun Oct 29 20:05:29 2023 -0400
+
+    initial changes
+
+commit ce3ca404f9793fce213575a8be86ddfb21e25cb0
+Author: Ivan Zhang <ivanzhang0111@gmail.com>
+Date:   Fri Oct 27 15:58:24 2023 -0400
+
+    minor change
+
+commit 8b0d63637fa2449c0edbd60365dc2317043abfd6
+Author: Ivan Zhang <ivanzhang0111@gmail.com>
+Date:   Fri Oct 27 15:55:15 2023 -0400
+
+    changed .gitignore and procfile
+
+commit cbc25615d148d9f3eb01473f53520375bd60b449
+Author: Ivan Zhang <ivanzhang0111@gmail.com>
+Date:   Fri Oct 27 15:45:12 2023 -0400
+
+    added deploy script
+
+commit 0430dab85d833a3bc39c99e45aabb1b190ee2866
+Author: Tolga Daim <tolgadaim@dyn205080.cc.lehigh.edu>
+Date:   Tue Oct 24 21:00:52 2023 -0400
+
+    Added mobile doc
+
+commit 8eb5f91ab45ae542b72652b215cdeb8b6c4c3c4a
+Author: Tolga Daim <tolgadaim@dyn205080.cc.lehigh.edu>
+Date:   Tue Oct 24 16:41:57 2023 -0400
+
+    fixed unit test
+
+commit 47e4a21c4a256117deff034a9825172c2c1c5931
+Author: Tolga Daim <tolgadaim@dyn217017.cc.lehigh.edu>
+Date:   Tue Oct 24 14:24:46 2023 -0400
+
+    Added web and backend javadoc links
+
+commit 7c192028fe963ce08f0adad3a5c70b67d91cbca6
+Author: Tolga Daim <tolgadaim@dyn217017.cc.lehigh.edu>
+Date:   Tue Oct 24 13:50:17 2023 -0400
+
+    Added web and backend javadoc links
+
+commit f2299cd4dda38ea6a3ecd65e5006b757fc911b1f
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Tue Oct 24 13:48:43 2023 -0400
+
+    added javadocs
+
+commit 0391d84aa5ce24a24e6847758d1f2aa511296625
+Author: Ivan Zhang <ivanzhang0111@gmail.com>
+Date:   Tue Oct 24 13:44:56 2023 -0400
+
+    minor change to code documentation
+
+commit fdb0b2fb967ae79f020200d787730a5e8f0a8eb7
+Author: Ivan Zhang <ivanzhang0111@gmail.com>
+Date:   Tue Oct 24 13:42:05 2023 -0400
+
+    added typedoc for documentation
+
+commit 072dcb9678fd584245ea2217e69ba2f9cc4f1108
+Author: Tolga Daim <tolgadaim@dyn217017.cc.lehigh.edu>
+Date:   Mon Oct 23 20:52:29 2023 -0400
+
+    Javadocs
+
+commit 06609b7417d1484e2f2a744d988151b88e3c6001
+Author: Tolga Daim <tolgadaim@dyn217017.cc.lehigh.edu>
+Date:   Mon Oct 23 20:49:36 2023 -0400
+
+    Javadocs
+
+commit fb3b29661029bd649e09ee9055eca97b3f11b117
+Author: Tolga Daim <tolgadaim@dyn217017.cc.lehigh.edu>
+Date:   Mon Oct 23 20:39:54 2023 -0400
+
+    Javadocs
+
+commit c3d36db77cf42e5fa66e72279ef08b127b93c190
+Author: Ivan Zhang <ivanzhang0111@gmail.com>
+Date:   Sun Oct 22 22:51:10 2023 -0400
+
+    changed read me
+
+commit 296045245e831da2af0dc3efa10158f9dfec165a
+Merge: e7be84b f0fbde0
+Author: Ivan Zhang <ivanzhang0111@gmail.com>
+Date:   Sun Oct 22 22:50:27 2023 -0400
+
+    Merge branch 'web' of bitbucket.org:thd226/cse216-2023fa-team-7 into web
+
+commit e7be84baaa4bd797aecdec9fbfcfd1657114e44e
+Author: Ivan Zhang <ivanzhang0111@gmail.com>
+Date:   Sun Oct 22 22:50:16 2023 -0400
+
+    added more code documenation, touched up web design, attempted to fix unit tests
+
+commit 94ad2f4a003b487930a3bf531478c0a0f68f499f
+Author: Tolga Daim <tolgadaim@dyn221200.cc.lehigh.edu>
+Date:   Sun Oct 22 20:17:40 2023 -0400
+
+    Modified unit tests
+
+commit 11b66d73918ff2972ee5f60d5131e2a8db069422
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Sun Oct 22 17:37:43 2023 -0400
+
+    fixed unit tests to remove password hardcode
+
+commit e8ceaf68f4632ee76642c1197978b258f0a6005c
+Author: Tolga Daim <tolgadaim@dyn238032.cc.lehigh.edu>
+Date:   Sat Oct 21 17:06:13 2023 -0400
+
+    Removed hard coded database connection
+
+commit 910c670128a69a5573e7b69fbc84b095cbe8c1b3
+Author: Tolga Daim <tolgadaim@dyn238032.cc.lehigh.edu>
+Date:   Thu Oct 19 19:17:24 2023 -0400
+
+    Updated README and fixed bug in unit test
+
+commit f0fbde028a47be52c4719845ff43a1c90d9449ca
+Merge: a044dc9 a9428f6
+Author: Ivan Zhang <ivz325@lehigh.edu>
+Date:   Thu Oct 19 18:48:40 2023 +0000
+
+    Merged backend into web
+
+commit a044dc9df037089f266bf111e3c3959564413873
+Author: Ivan Zhang <ivanzhang0111@gmail.com>
+Date:   Thu Oct 19 14:47:55 2023 -0400
+
+    added a few more unit tests and minor fixes
+
+commit 699a1c005ed6dbb4f21ffb699a3a32c40768568e
+Author: Tolga Daim <tolgadaim@dyn238032.cc.lehigh.edu>
+Date:   Wed Oct 18 20:00:41 2023 -0400
+
+    Added unit tests
+
+commit a9428f62673dc197ec6f44ca28a0a34937c150d3
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Wed Oct 18 19:28:22 2023 -0400
+
+    finished phase 1 backend
+
+commit c081f8b420b41c5f96d91783ee04c1e95ba73798
+Author: Ivan Zhang <ivanzhang0111@gmail.com>
+Date:   Wed Oct 18 16:33:09 2023 -0400
+
+    configured vitest and added simple unit tests
+
+commit d8280548ccd4d4f1cbdeddcf45eeec08117bf61e
+Author: Tolga Daim <tolgadaim@dyn235248.cc.lehigh.edu>
+Date:   Tue Oct 17 18:48:48 2023 -0400
+
+    Added one unit test and edit like feature
+
+commit 2747d3deecb7019f0702696c5b9bfabc32c2fda1
+Author: Ivan Zhang <ivanzhang0111@gmail.com>
+Date:   Tue Oct 17 17:12:46 2023 -0400
+
+    Added more comments, and implemented like functionality
+
+commit 2f3c49eeadb941aba876a284ee61a1fba46aa8db
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Tue Oct 17 16:02:18 2023 -0400
+
+    for branch switch
+
+commit f6c8df95aa0f06c0b9520cfeaf880b5f574b3470
+Merge: bf7031a d205b0f
+Author: Ivan Zhang <ivanzhang0111@gmail.com>
+Date:   Mon Oct 16 18:26:46 2023 -0400
+
+    Merge branch 'backend' of bitbucket.org:thd226/cse216-2023fa-team-7 into web
+
+commit bf7031a945ec4899b39c748ba281d699d3d9b416
+Author: Ivan Zhang <ivanzhang0111@gmail.com>
+Date:   Mon Oct 16 18:21:25 2023 -0400
+
+    Used vite to set up react.js, converted tutorial code into react code, deleted unnecessary files
+
+commit d205b0f5b4225855a87d17c5c6ca7e2570d0efb4
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Mon Oct 16 16:43:34 2023 -0400
+
+    cleaned up backend
+
+commit b47aca7c5ca95fdf0912fa0c2107af546d6e663e
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Mon Oct 16 12:30:44 2023 -0400
+
+    added like feature to backend
+
+commit 346711ca671eaac8cddb8f13ed9132023d980532
+Author: Aaron Chu-Carroll <aaron.chucarroll@gmail.com>
+Date:   Sun Oct 15 19:20:38 2023 -0400
+
+    configured backend with new postgre server
+
+commit 040845ba5d64a62ba48f9810e5186de7ebbb7b39
+Author: Tolga Daim <tolgadaim@v153253.cc.lehigh.edu>
+Date:   Sun Oct 15 13:37:54 2023 -0400
+
+    Modified base admin to have like row, and also changed message to idea
+
+commit d681d75890f7bce04823db74804c8dce5cf03fe2
+Author: Tolga Daim <tolgadaim@dyn198236.cc.lehigh.edu>
+Date:   Mon Oct 9 17:23:49 2023 -0400
+
+    Copied Tolga's tutorials here
+
+commit ba992a0f8305b6e38d803eb7cdddbf0aa826b4d9
+Author: Tolga Daim <tolgadaim@dyn198236.cc.lehigh.edu>
+Date:   Sun Oct 8 17:43:03 2023 -0400
+
+    Added log for this sprint
+
+commit 7c62e4999a47cc6cc0ef1db3991be8cab54a4dcb
+Author: Tolga Daim <tolgadaim@dyn198236.cc.lehigh.edu>
+Date:   Sun Oct 8 17:37:52 2023 -0400
+
+    Updated some typos
+
+commit 9e347d8b653f55dbdb4b9c174eab511de585adae
+Author: Tolga Daim <tolgadaim@dyn198236.cc.lehigh.edu>
+Date:   Sun Oct 8 17:28:10 2023 -0400
+
+    created docs folder
+
+commit a18373358299948f071702819da4c0503188634f
+Author: Tolga Daim <tolgadaim@dyn198236.cc.lehigh.edu>
+Date:   Sun Oct 8 15:13:02 2023 -0400
+
+    Updated README for this sprint
+
+commit a8ee67a948f8ebc4e57871a340e29036e3f13097
+Author: Tolga Daim <thd226@lehigh.edu>
+Date:   Fri Oct 6 21:35:53 2023 +0000
+
+    Initial commit

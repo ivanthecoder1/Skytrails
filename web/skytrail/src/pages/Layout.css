@@ -1,0 +1,15 @@
+.login {
+    font-family:Avenir, "Century Gothic", sans-serif;
+    font-weight:100; 
+    font-style:normal;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    justify-content: center;
+    padding:35px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  

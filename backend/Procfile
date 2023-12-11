@@ -1,0 +1,2 @@
+web: java $JAVA_OPTS -cp target/backend-1.0-SNAPSHOT-jar-with-dependencies.jar edu.lehigh.cse216.thd226.backend.App 
+code: sh cse216-2023fa-team-7/web/skytrail/deploy.sh

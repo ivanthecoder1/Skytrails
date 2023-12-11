@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resources> 
+<!-- Put client id in a env folder to hide it -->
+    <string name="default_web_client_id">569573369833-6f0vk1cj0qe2jfm2bsrpmt0jptov4r2p.apps.googleusercontent.com</string> 
+</resources>

@@ -1,0 +1,60 @@
+.User {
+    font-family:Avenir, "Century Gothic", sans-serif;
+    font-weight:100; 
+    font-style:normal;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    justify-content: center;
+    padding:35px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .user-info {
+    background-color: rgba(52, 64, 232, 0.962);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+    text-align: center;
+}
+  
+  button {
+    border-radius: 8px;
+    border: 1px solid transparent;
+    padding: 0.6em 1.2em;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: #646cff;
+    color:white;
+    cursor: pointer;
+    transition: border-color 0.25s;
+    
+  }
+  
+  button:hover {
+    border-color: rgb(179, 25,25);
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(52, 64, 232, 0.962);
+    align-items: center;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+  }
+  
+  .navbar-brand {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  
+  
