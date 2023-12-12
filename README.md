@@ -9,7 +9,7 @@ A social media application
 - Users can comment on other posts and edit / delete a comment
 - Users can attach a file and/or link to a post or comment
 - Admin CLI for invalidating/validating posts, directly interact with database, etc
-- **Tech Stack:** Vite, React.js, TypeScript, HTML/CSS, Java, Maven, Flutter, Dart, PostgreSQL, ElephantSQL, Vitest/Jest, JUnit, DartDocs, Dokku 
+- **Tech Stack:** React.js, TypeScript, HTML/CSS, Java, Maven, Flutter, ElephantSQL, Vitest/Jest, JUnit, DartDocs, Dokku 
 
 ## How to run back end
 - CD to backend folder 
