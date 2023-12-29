@@ -1,13 +1,13 @@
 # Skytrails
-A social media application 
+A social media application for users to login via Google, and share posts with other users.
 
 ## Features
-- Users can login through email via Google OAuth 2.0
-- Users are able to edit their user profile
-- Users can create posts
-- Users can like or dislike other posts
-- Users can comment on other posts and edit / delete a comment
-- Users can attach a file and/or link to a post or comment
+- Login through email via Google OAuth 2.0
+- Profile Customization
+- Create posts
+- Like or dislike other posts
+- Comment on other posts and edit / delete a comment
+- Attach a file and/or link to a post or comment
 - Admin CLI for invalidating/validating posts, directly interact with database, etc
 - **Tech Stack:** React.js, TypeScript, HTML/CSS, Java, Maven, Flutter, ElephantSQL, Vitest/Jest, JUnit, DartDocs, Dokku 
 
