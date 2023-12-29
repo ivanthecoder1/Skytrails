@@ -11,6 +11,11 @@ A social media application
 - Admin CLI for invalidating/validating posts, directly interact with database, etc
 - **Tech Stack:** React.js, TypeScript, HTML/CSS, Java, Maven, Flutter, ElephantSQL, Vitest/Jest, JUnit, DartDocs, Dokku 
 
+## Website Look
+| Desktop View  | Mobile View |
+| ------------- | ------------- |
+|<img width="700" src="https://github.com/ivanthecoder1/Skytrails/assets/56855196/b87d976e-938e-4e7c-a846-b0c581fad5e5">| <img width="220" src="https://github.com/ivanthecoder1/Skytrails/assets/56855196/0f484456-8ce6-4ec6-badd-db24b75b0cc7"> |
+
 ## How to run back end
 - CD to backend folder 
 - Run mvn clean; mvn package
