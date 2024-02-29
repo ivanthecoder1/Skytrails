@@ -9,7 +9,7 @@ A social media application for users to login via Google, and share posts with o
 - Comment on other posts and edit / delete a comment
 - Attach a file and/or link to a post or comment
 - Admin CLI for invalidating/validating posts, directly interact with database, etc
-- **Tech Stack:** React.js, TypeScript, HTML/CSS, Java, Maven, Flutter, ElephantSQL, Vitest/Jest, JUnit, DartDocs, Dokku 
+- **Tech Stack:** React.js, TypeScript, Java, Maven, Flutter, ElephantSQL, Vitest/Jest, JUnit
 
 ## Website Look
 | Desktop View  | Mobile View |
